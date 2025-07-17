@@ -86,7 +86,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Norsebold';
     font-size: var(--font-header);
 }
-
+ 
 #logo-font img {
     width: min(80px, 10vw);
 }
