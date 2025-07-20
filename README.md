@@ -5,10 +5,10 @@
 </p>
 
 
-🚀 ### Live Demo
+### Live Demo 🚀 
 [View Live Application](https://jkgyso.github.io/sign-up-form/)
 
-📸 ### Screenshots
+### Screenshots 📸
 
 ### Desktop View
 
