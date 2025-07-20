@@ -13,4 +13,4 @@
 
 ### Form Validation
 
-![Form Validation](./assets/form-validation.PNG)
+<img width="30%" height="30%" alt="Image" src="https://github.com/user-attachments/assets/1eccaa20-2506-4ba2-9d5a-e1530ae6f061" />
